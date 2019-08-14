@@ -5,9 +5,9 @@ Coursework examining reflection and dependency injection using Spring framework.
 Demonstrates
 
 + subclassing, 
-+ testing,
++ unit testing with JUnit,
 + dependency injection,
-+ and the use of reflection
++ the use of reflection
 
 amongst other skills.
 
