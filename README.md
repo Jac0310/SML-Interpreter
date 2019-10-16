@@ -2,16 +2,6 @@
 
 Coursework examining reflection and dependency injection using Spring framework.
 
-Demonstrates
-
-+ subclassing, 
-+ unit testing with JUnit,
-+ dependency injection,
-+ the use of reflection
-
-amongst other skills.
-
-
 ## The problem
 
 This is an interpreter for a simple machine language — **SML**. 
