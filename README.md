@@ -1,6 +1,6 @@
 # Simple (Small) Machine Language (SML)
 
-Coursework examining reflection and dependency injection using Spring framework.
+Reflection and dependency injection using Spring framework to interpret simple machine language.
 
 ## The problem
 
